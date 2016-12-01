@@ -1,4 +1,4 @@
-# sentence to parts
+# linguistic dependency graph to spatial dependency graph
 A Python module to transform raw linguistic graph into spatial dependency graph
 
 # Quick start
